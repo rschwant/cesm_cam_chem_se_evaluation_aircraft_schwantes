@@ -1,0 +1,13 @@
+&modelio
+  diri = "/glade/p/nsc/nacm0003/results/CAM-SE/opt_se_cslam_nov2019/opt_se_cslam_nov2019.FCHIST.ne0CONUSne30x8_ne0CONUSne30x8_mt12_pecount2700_SEACRS_TS1_CAMS_final_2013_branch/bld/esp"
+  diro = "/glade/p/nsc/nacm0003/results/CAM-SE/opt_se_cslam_nov2019/opt_se_cslam_nov2019.FCHIST.ne0CONUSne30x8_ne0CONUSne30x8_mt12_pecount2700_SEACRS_TS1_CAMS_final_2013_branch/run"
+  logfile = "esp.log.9757293.chadmin1.ib0.cheyenne.ucar.edu.191228-204640"
+/
+&pio_inparm
+  pio_netcdf_format = ""
+  pio_numiotasks = -99
+  pio_rearranger = -99
+  pio_root = -99
+  pio_stride = -99
+  pio_typename = "nothing"
+/
